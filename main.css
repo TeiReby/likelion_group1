@@ -1,0 +1,20 @@
+.b_home_main_section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.b_main_image {
+  width: 655px;
+  height: 750px;
+}
+
+.b_main_buttons {
+  margin: 30px, 0px, 0px;
+}
+
+a .b_main_button {
+  margin: 0px, 10px, 0px, 0px;
+  background-color: #e9ecef;
+}
