@@ -155,7 +155,8 @@ footer {
   text-decoration: none;
 }
 
-a:hover {
+.about2 a:hover,
+.about3 a:hover {
   text-decoration: underline;
 }
 
